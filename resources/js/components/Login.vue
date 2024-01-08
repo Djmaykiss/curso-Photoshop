@@ -49,7 +49,7 @@
                     <a class="nav-link" href="#">Inicio
                         <span class="sr-only">(current)</span>
                     </a>
-                </li>
+                </li> <!--
                 <li class="nav-item">
                     <a class="nav-link" href="#">Acerca de</a>
                 </li>
@@ -58,7 +58,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contacto</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </nav>
