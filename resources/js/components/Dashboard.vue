@@ -46,47 +46,34 @@ export default {
 }
 </script>
 <style>
-
-section {
-    width: 80%;
-    margin: 40%;
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
-h2 {
-    color: #fff;
-    margin-bottom: 10px;
+#intro {
+    margin-bottom: 40px;
 }
+
+iframe {
+    width: 100%;
+    height: 400px;
+    border: none;
+    overflow: hidden;
+}
+
+h2,
 h3 {
-    color: #fff;
-    margin-bottom: 10px;
-    font-size: small;
+    color: #333;
 }
 
-ul {
-    list-style: none;
-    padding: 0;
-}
-
-li {
-    margin-bottom: 10px;
-}
-
-li a {
-    color: black;
-    display: block;
-    padding: 10px;
-    background-color: #fff;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-li a:hover {
-    background-color: #f5f5f5;
-    color: red;
+#progreso {
+    text-align: center;
 }
 
 progress {
     width: 100%;
+    height: 20px;
 }
 </style>
