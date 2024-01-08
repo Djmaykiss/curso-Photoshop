@@ -5,8 +5,7 @@
             <div>
                 <h2>Bienvenido al Curso de Photoshop Online</h2>
                 <!-- Puedes usar un video o una imagen para la introducción -->
-                <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2F61553959814822%2Fvideos%2F1103205307523615%2F&show_text=false&width=560&t=0" width="auto" height="auto" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-            </div>
+<iframe width="1350" height="480" src="https://www.youtube.com/embed/4-VMuLs99Ss" title="Curso Photoshop - Capitulo 0, Introducción para Principiantes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </div>
         </section>
 
         <section id="cursos">
