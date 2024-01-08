@@ -49,8 +49,8 @@ export default {
 <style>
 
 section {
-    width: 100%;
-    margin: 40px 0;
+    width: 80%;
+    margin: 40%;
 }
 
 iframe {
