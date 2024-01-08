@@ -38,8 +38,8 @@
                         <a class="nav-link" href="#">Inicio
                             <span class="sr-only">(current)</span>
                         </a>
-                   <!--</li>
-                    <li class="nav-item">
+                   </li>
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="#">Acerca de</a>
                     </li>
                     <li class="nav-item">
@@ -47,8 +47,8 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contacto</a>
-                    </li>
-                </ul>-->
+                    </li>-->
+                </ul>
                 <div class="d-flex">
                     <ul class="navbar-nav">
                         <li class="nav-item dropdown">
