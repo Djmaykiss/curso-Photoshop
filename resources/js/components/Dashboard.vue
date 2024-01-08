@@ -52,11 +52,6 @@ section {
     margin: 40%;
 }
 
-iframe {
-    width: 100%;
-    height: 300px;
-}
-
 h2 {
     color: #fff;
     margin-bottom: 10px;
